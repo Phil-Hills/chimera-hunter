@@ -1,0 +1,12 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+.idea
+.vscode
+*.md
+deploy_frontend.ps1
+main.py
